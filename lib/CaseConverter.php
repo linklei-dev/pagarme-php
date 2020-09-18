@@ -4,7 +4,7 @@ namespace PagarMe\Sdk;
 
 trait CaseConverter
 {
-    use CaseConverter;
+    // use CaseConverter;
 
     /**
      * @param string $sentence
