@@ -1,4 +1,4 @@
-# Pagar.me PHP SDK
+# Pagar.me PHP SDK - Fork para LinkLei - com correções para funcionar com php7.4
 
 <img src="https://avatars1.githubusercontent.com/u/3846050?s=200&v=4" width="127px" height="127px" align="left"/>
 
